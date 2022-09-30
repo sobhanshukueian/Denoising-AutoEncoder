@@ -52,3 +52,5 @@ In ```add_noise``` randomly add gaussian and uniform noise with below configs to
 *   You can choose Optimizer: `OPTIMIZER` 
 
 # Results
+
+![AE](https://user-images.githubusercontent.com/47561760/193319563-1ed228c1-cb61-4cb7-97be-9a52fd16aedb.jpg)
